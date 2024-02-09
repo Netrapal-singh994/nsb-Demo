@@ -1,2 +1,2 @@
 # nsb-Demo
-This is Demo for git &amp; git hub
+This is Demo for git &amp; git hub class.
